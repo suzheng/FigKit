@@ -1,0 +1,21 @@
+{
+    "sample_names": ["Sample A", "Sample B", "Sample C"],
+    "group_names": ["Control", "Treatment"],
+    "sample_colors": {
+        "Sample A": "#1f77b4",
+        "Sample B": "#ff7f0e",
+        "Sample C": "#2ca02c"
+    },
+    "group_colors": {
+        "Control": "#1f77b4",
+        "Treatment": "#ff7f0e"
+    },
+    "figure_dimensions": {
+        "one_third_fig_width": 2.3,
+        "half_fig_width": 3.5,
+        "full_fig_width": 7.0,
+        "fig_height_a0": 2.2,
+        "fig_height_a": 2.8,
+        "fig_height_b": 3.3
+    }
+}

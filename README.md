@@ -112,6 +112,9 @@ This example JSON file centralizes constants and configurations:
 
 Use the `FigureStyle` class from `src/utils/figure_style.py` to apply consistent styling to your figures.
 
+**Note**
+- After updating the `src/utils/figure_style.py`, you need to restart your jupyter notebook (by clicking the `Restart` button) to re-import the `FigureStyle` class to take effect.
+
 **Example:**
 
 ```python
